@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/PhuongDongIOT/laravel-collective-html"
+            "url": "https://github.com/tyhero/laravel-collective-html"
         }
     ],
     "require": {
